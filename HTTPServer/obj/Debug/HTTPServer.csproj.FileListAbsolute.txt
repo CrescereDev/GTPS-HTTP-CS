@@ -1,0 +1,8 @@
+C:\Users\vinsky\Desktop\HTTPServer\HTTPServer\bin\Debug\HTTPServer.exe.config
+C:\Users\vinsky\Desktop\HTTPServer\HTTPServer\bin\Debug\HTTPServer.exe
+C:\Users\vinsky\Desktop\HTTPServer\HTTPServer\bin\Debug\HTTPServer.pdb
+C:\Users\vinsky\Desktop\HTTPServer\HTTPServer\obj\Debug\HTTPServer.csproj.AssemblyReference.cache
+C:\Users\vinsky\Desktop\HTTPServer\HTTPServer\obj\Debug\HTTPServer.csproj.SuggestedBindingRedirects.cache
+C:\Users\vinsky\Desktop\HTTPServer\HTTPServer\obj\Debug\HTTPServer.csproj.CoreCompileInputs.cache
+C:\Users\vinsky\Desktop\HTTPServer\HTTPServer\obj\Debug\HTTPServer.exe
+C:\Users\vinsky\Desktop\HTTPServer\HTTPServer\obj\Debug\HTTPServer.pdb
